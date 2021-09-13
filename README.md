@@ -10,6 +10,10 @@ Add permission in "AndroidManifest.xml".
 ## Step 2
 Add libs in "build.gradle".
 ```
+buildFeatures{
+    viewBinding true
+}
+
 //Retrofit2
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
