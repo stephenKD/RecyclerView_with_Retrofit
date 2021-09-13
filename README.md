@@ -1,4 +1,5 @@
 # RecyclerView_with_Retrofit
+Kotlin practice, call Restful API with Retrofit, and update RecyclerView.  
 
 ## Step 1
 Add permission in "AndroidManifest.xml".
