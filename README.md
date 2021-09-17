@@ -1,6 +1,8 @@
 # RecyclerView_with_Retrofit
 Kotlin practice, call Restful API with Retrofit, and update RecyclerView.  
 
+<img src="https://github.com/stephenKD/SampleRecycleView/blob/master/app/src/main/res/drawable/sample_pic.png?raw=true" width=20% height=20%/>
+
 ## Step 1
 Add permission in "AndroidManifest.xml".
 ```
